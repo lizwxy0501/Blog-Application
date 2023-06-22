@@ -2,7 +2,7 @@
 
 **React, Node.js, MySQL**
 
-A feature-rich React blog application utilizing functional **React **components and React Router Dom. 
+A feature-rich React blog application utilizing functional **React components and React Router Dom**. 
 
 The application includes essential features like user authentication, allowing users to securely **_login/logout_** 
 and perform actions such as _**writing, editing, and deleting(CRUD)**_ blogs with images. 
